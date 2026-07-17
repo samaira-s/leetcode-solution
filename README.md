@@ -19,10 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samaira-s/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/main/0012-integer-to-roman/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samaira-s/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/main/0012-integer-to-roman/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +34,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/samaira-s/leetcode-solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/samaira-s/leetcode-solution/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
