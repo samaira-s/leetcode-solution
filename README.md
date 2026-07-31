@@ -4,36 +4,36 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/samaira-s/leetcode-solution/tree/master/0001-two-sum) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/samaira-s/leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/samaira-s/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samaira-s/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samaira-s/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/samaira-s/leetcode-solution/tree/master/0001-two-sum) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/samaira-s/leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samaira-s/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/master/0012-integer-to-roman) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samaira-s/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/master/0012-integer-to-roman) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samaira-s/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/samaira-s/leetcode-solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/samaira-s/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/master/0012-integer-to-roman) |
