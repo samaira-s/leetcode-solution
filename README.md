@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samaira-s/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samaira-s/leetcode-solution/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/samaira-s/leetcode-solution/tree/master/0046-permutations) |
+| [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samaira-s/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/samaira-s/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/samaira-s/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -53,4 +56,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0046-permutations](https://github.com/samaira-s/leetcode-solution/tree/master/0046-permutations) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
