@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samaira-s/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samaira-s/leetcode-solution/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/samaira-s/leetcode-solution/tree/master/0046-permutations) |
+| [0136-single-number](https://github.com/samaira-s/leetcode-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -68,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/samaira-s/leetcode-solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
