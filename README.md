@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/samaira-s/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samaira-s/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samaira-s/leetcode-solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/samaira-s/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/samaira-s/leetcode-solution/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/samaira-s/leetcode-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samaira-s/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/samaira-s/leetcode-solution/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
