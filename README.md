@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/samaira-s/leetcode-solution/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/samaira-s/leetcode-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/samaira-s/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/samaira-s/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/samaira-s/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/samaira-s/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
