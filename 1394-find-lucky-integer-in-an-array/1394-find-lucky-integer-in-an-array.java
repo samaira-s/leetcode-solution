@@ -7,10 +7,7 @@ class Solution {
         }
         for(int key:m.keySet()){
             if(m.get(key)==key){
-                if(key>t){
                 t=key;
-               
-            }
            
             }
             
