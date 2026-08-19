@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/samaira-s/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/samaira-s/leetcode-solution/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/samaira-s/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/samaira-s/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/samaira-s/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/samaira-s/leetcode-solution/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/samaira-s/leetcode-solution/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/samaira-s/leetcode-solution/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/samaira-s/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
