@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/samaira-s/leetcode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/samaira-s/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/samaira-s/leetcode-solution/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/samaira-s/leetcode-solution/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/samaira-s/leetcode-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/samaira-s/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samaira-s/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samaira-s/leetcode-solution/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/samaira-s/leetcode-solution/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/samaira-s/leetcode-solution/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/samaira-s/leetcode-solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -100,4 +103,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/samaira-s/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/samaira-s/leetcode-solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/samaira-s/leetcode-solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
