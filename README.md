@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/samaira-s/leetcode-solution/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/samaira-s/leetcode-solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/samaira-s/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/samaira-s/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/samaira-s/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/samaira-s/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/samaira-s/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/samaira-s/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/samaira-s/leetcode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samaira-s/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/samaira-s/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/samaira-s/leetcode-solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/samaira-s/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/samaira-s/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
