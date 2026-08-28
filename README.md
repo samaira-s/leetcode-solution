@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samaira-s/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/samaira-s/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/samaira-s/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/samaira-s/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samaira-s/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/samaira-s/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samaira-s/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/samaira-s/leetcode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samaira-s/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/samaira-s/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/samaira-s/leetcode-solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/samaira-s/leetcode-solution/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/samaira-s/leetcode-solution/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0696-count-binary-substrings](https://github.com/samaira-s/leetcode-solution/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/samaira-s/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 ## Backtracking
@@ -92,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samaira-s/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0229-majority-element-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/samaira-s/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
