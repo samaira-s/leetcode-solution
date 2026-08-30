@@ -13,9 +13,7 @@ else{
    temo=height[r]*(r-l);
    r--; 
 }
-if(max<temo){
-    max=temo;
-}
+max=Math.max(max,temo);
 
 
     }
