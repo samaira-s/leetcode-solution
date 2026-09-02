@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/samaira-s/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/samaira-s/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/samaira-s/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/samaira-s/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/samaira-s/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/samaira-s/leetcode-solution/tree/master/0412-fizz-buzz) |
+| [3875-construct-uniform-parity-array-i](https://github.com/samaira-s/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
