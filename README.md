@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/samaira-s/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/samaira-s/leetcode-solution/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/samaira-s/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/samaira-s/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 ## Backtracking
 |  |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/samaira-s/leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/samaira-s/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
