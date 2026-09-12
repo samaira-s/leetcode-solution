@@ -9,9 +9,9 @@ class Solution {
             if(first.charAt(i)!=last.charAt(i)){
                 return sb.toString();
             }
-            else{
+            
                 sb.append(first.charAt(i));
-            }
+            
        }
         return sb.toString();
     }}
