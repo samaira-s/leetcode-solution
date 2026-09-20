@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/samaira-s/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/samaira-s/leetcode-solution/tree/master/0696-count-binary-substrings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/samaira-s/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/samaira-s/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0258-add-digits](https://github.com/samaira-s/leetcode-solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/samaira-s/leetcode-solution/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/samaira-s/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
