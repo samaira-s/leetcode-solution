@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/samaira-s/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/samaira-s/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/samaira-s/leetcode-solution/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/samaira-s/leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/samaira-s/leetcode-solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/samaira-s/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [3875-construct-uniform-parity-array-i](https://github.com/samaira-s/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/samaira-s/leetcode-solution/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/samaira-s/leetcode-solution/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/samaira-s/leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/samaira-s/leetcode-solution/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
