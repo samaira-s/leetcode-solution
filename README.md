@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/samaira-s/leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/samaira-s/leetcode-solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/samaira-s/leetcode-solution/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/samaira-s/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/samaira-s/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
