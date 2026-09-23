@@ -6,15 +6,11 @@ class Solution {
      int k=n;
      while(k!=0){
         int c=k%10;
+        sum+=c;
         prod*=c;
         k/=10;
      }  
-     k=n;
-     while(k!=0){
-        int c=k%10;
-        sum+=c;
-        k/=10;
-     }  
+    
      d=prod-sum; 
      return d;
     }
