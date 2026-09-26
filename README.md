@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/samaira-s/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samaira-s/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/samaira-s/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/samaira-s/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/samaira-s/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samaira-s/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/samaira-s/leetcode-solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/samaira-s/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/samaira-s/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/samaira-s/leetcode-solution/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/samaira-s/leetcode-solution/tree/master/0567-permutation-in-string) |
