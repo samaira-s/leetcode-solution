@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samaira-s/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samaira-s/leetcode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/samaira-s/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/samaira-s/leetcode-solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/samaira-s/leetcode-solution/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/samaira-s/leetcode-solution/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/samaira-s/leetcode-solution/tree/master/0136-single-number) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/samaira-s/leetcode-solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/samaira-s/leetcode-solution/tree/master/0046-permutations) |
 ## Sorting
 |  |
