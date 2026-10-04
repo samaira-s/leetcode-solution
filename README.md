@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/samaira-s/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/samaira-s/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/samaira-s/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/samaira-s/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/samaira-s/leetcode-solution/tree/master/0696-count-binary-substrings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/samaira-s/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samaira-s/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -190,15 +191,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samaira-s/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/samaira-s/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samaira-s/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/samaira-s/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samaira-s/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samaira-s/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/samaira-s/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samaira-s/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -235,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/samaira-s/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/samaira-s/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
