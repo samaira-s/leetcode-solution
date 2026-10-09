@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/samaira-s/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/samaira-s/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/samaira-s/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3870-count-commas-in-range](https://github.com/samaira-s/leetcode-solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/samaira-s/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
