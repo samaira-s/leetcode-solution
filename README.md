@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/samaira-s/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/samaira-s/leetcode-solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/samaira-s/leetcode-solution/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/samaira-s/leetcode-solution/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/samaira-s/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/samaira-s/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/samaira-s/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0206-reverse-linked-list](https://github.com/samaira-s/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/samaira-s/leetcode-solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/samaira-s/leetcode-solution/tree/master/0326-power-of-three) |
 ## Trie
 |  |
 | ------- |
