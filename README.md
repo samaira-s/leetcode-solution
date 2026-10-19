@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/samaira-s/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/samaira-s/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/samaira-s/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/samaira-s/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/samaira-s/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/samaira-s/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/samaira-s/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/samaira-s/leetcode-solution/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/samaira-s/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/samaira-s/leetcode-solution/tree/master/0905-sort-array-by-parity) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/samaira-s/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
