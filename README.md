@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/samaira-s/leetcode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samaira-s/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/samaira-s/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/samaira-s/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/samaira-s/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/samaira-s/leetcode-solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/samaira-s/leetcode-solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/samaira-s/leetcode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samaira-s/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/samaira-s/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/samaira-s/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/samaira-s/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/samaira-s/leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/samaira-s/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samaira-s/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/samaira-s/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/samaira-s/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samaira-s/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/samaira-s/leetcode-solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/samaira-s/leetcode-solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/samaira-s/leetcode-solution/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/samaira-s/leetcode-solution/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
