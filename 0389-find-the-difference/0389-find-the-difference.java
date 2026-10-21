@@ -1,15 +1,16 @@
 class Solution {
-    public char findTheDifference(String s, String m) {
-        Map<Character,Integer> t=new HashMap<>();
-        for (char c:m.toCharArray()){
-            t.put(c,t.getOrDefault(c,0)+1);
+    public char findTheDifference(String s, String t) {
+        int freq[]=new int[26];
+        for(int i=0;i<s.length();i++){
+            freq[s.charAt(i)-'a']++;
+
         }
-    for(char c:s.toCharArray()){
-        t.put(c,t.get(c)-1);
-        if(t.get(c)==0){
-            t.remove(c);
+        for(int i=0;i<t.length();i++){
+            char c= t.charAt(i);
+            if(freq[c-'a']==0){
+                return c;
+            }
+            freq[c-'a']--;
         }
-    }
-    return (char)t.keySet().toArray()[0];
-    }
-}
+        return ' ';
+    }}
